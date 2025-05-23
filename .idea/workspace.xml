@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9e6950c0-8d4f-43d8-9168-8cb8a5b6e3a1" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/kray.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/modules.xml" afterDir="false" />
       <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/main/kray/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$USER_HOME$/Desktop/main/kray/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/main/kray" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2x2oik4csAGTZhq6ZbqsIQ4ecKa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
